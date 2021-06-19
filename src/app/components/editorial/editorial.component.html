@@ -1,0 +1,7 @@
+<ng-container *ngIf="heroes?.length">
+  <div class="row">
+    <div *ngFor="let heroe of heroes" class="col-3">
+      <app-hero [heroe]=heroe></app-hero>
+    </div>
+  </div>
+</ng-container>

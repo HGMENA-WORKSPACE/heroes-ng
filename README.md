@@ -2,6 +2,17 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.4.
 
+## Test
+The tests are developed with jest.
+
+Run `npm run test:unit` for a run test.
+
+Run `npm run test:unit-coverage` for a run test coverage.
+
+## Lint
+
+Run `npm run lint` for a run lint.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
