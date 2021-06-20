@@ -1,0 +1,11 @@
+:host::ng-deep {
+  nav {
+    position: fixed;
+    width: 100%;
+    z-index: 99;
+  }
+  .container {
+    top: 60PX;
+    position: relative;
+  }
+}
